@@ -1,0 +1,37 @@
+x tools
+brew
+fuse
+ntfs
+docker
+jetbrains toolbox
+tunnelblick
+keybase
+copy clip
+activity watcher
+oh my zsh
+resh
+magnet
+python3
+android file transfer
+google backup and sync
+chrome
+firefox
+iterm2
+lime chat
+sli3r
+steam
+
+scli
+
+
+???
+vscode
+airdroid
+obs
+shotcut
+openscad
+caffeine
+blender
+calibre
+
+clean my mac x ?
