@@ -1,10 +1,12 @@
 x tools
 brew
+copy ssh keys
+dotfiles
+jetbrains toolbox
+tunnelblick
 fuse
 ntfs
 docker
-jetbrains toolbox
-tunnelblick
 keybase
 copy clip
 activity watcher
