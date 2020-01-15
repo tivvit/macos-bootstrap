@@ -20,6 +20,7 @@ iterm2
 lime chat
 sli3r
 steam
+magnet
 
 scli
 
