@@ -21,11 +21,12 @@ copy clip
 activity watcher
 # oh my zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-#resh
+# resh
 curl -fsSL https://raw.githubusercontent.com/curusarn/resh/master/scripts/rawinstall.sh | bash
 
 # widow apps
 brew cask install jetbrains-toolbox
+# install GoLand PyCharm PhpStorm CLion
 
 magnet
 android file transfer
