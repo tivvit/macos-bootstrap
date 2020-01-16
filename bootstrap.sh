@@ -17,7 +17,6 @@ fuse
 ntfs
 docker
 copy clip
-activity watcher
 # oh my zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 # resh
