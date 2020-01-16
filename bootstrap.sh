@@ -53,7 +53,6 @@ airdroid
 obs
 shotcut
 openscad
-caffeine
 blender
 calibre
 
