@@ -4,7 +4,10 @@
 #x tools
 #brew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-brew install coreutils golang python3 git gpg ansible terraform htop mc
+brew install coreutils golang python3 git gpg ansible terraform htop mc zsh
+
+# set default shell (zsh)
+chsh -s /bin/zsh
 
 # copy ssh keys
 # dotfiles
@@ -17,8 +20,11 @@ docker
 keybase
 copy clip
 activity watcher
-oh my zsh
-resh
+# oh my zsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+#resh
+curl -fsSL https://raw.githubusercontent.com/curusarn/resh/master/scripts/rawinstall.sh | bash
+
 magnet
 android file transfer
 google backup and sync
@@ -30,7 +36,11 @@ sli3r
 steam
 magnet
 
-scli
+
+###
+# Seznam.cz
+###
+# scli
 
 # add client certificates
 # * https://apple.stackexchange.com/questions/8993/how-can-i-add-a-private-key-to-my-keychain
