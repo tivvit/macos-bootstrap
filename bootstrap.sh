@@ -24,7 +24,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 curl -fsSL https://raw.githubusercontent.com/curusarn/resh/master/scripts/rawinstall.sh | bash
 
 # widow apps
-brew cask install jetbrains-toolbox keybase
+brew cask install jetbrains-toolbox keybase activitywatch
 # install GoLand PyCharm PhpStorm CLion
 
 magnet
