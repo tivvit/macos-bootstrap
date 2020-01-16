@@ -1,7 +1,7 @@
 # Do not use case-sensitve fs 
 # * steam does not work on it
 
-# x tools
+# x tools (installed by brew)
 # brew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew install coreutils golang python3 git gpg ansible terraform htop mc zsh hstr
