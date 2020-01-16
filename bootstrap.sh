@@ -1,7 +1,7 @@
 #x tools
 #brew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-brew install coreutils golang python3 git
+brew install coreutils golang python3 git gpg
 
 copy ssh keys
 dotfiles
