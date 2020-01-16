@@ -4,7 +4,7 @@
 #x tools
 #brew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-brew install coreutils golang python3 git gpg ansible terraform htop mc zsh
+brew install coreutils golang python3 git gpg ansible terraform htop mc zsh hstr
 
 # set default shell (zsh)
 chsh -s /bin/zsh
