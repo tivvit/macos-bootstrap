@@ -12,7 +12,6 @@ chsh -s /bin/zsh
 # copy ssh keys
 # dotfiles
 
-jetbrains toolbox
 tunnelblick
 fuse
 ntfs
@@ -24,6 +23,9 @@ activity watcher
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 #resh
 curl -fsSL https://raw.githubusercontent.com/curusarn/resh/master/scripts/rawinstall.sh | bash
+
+# widow apps
+brew cask install jetbrains-toolbox
 
 magnet
 android file transfer
