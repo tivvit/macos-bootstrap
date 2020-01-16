@@ -35,6 +35,7 @@ scli
 # add client certificates
 # * https://apple.stackexchange.com/questions/8993/how-can-i-add-a-private-key-to-my-keychain
 security import ~/szn/certs/tt-elk-tool1.ko-key.p12
+# sudo security add-trusted-cert -d -r trustRoot -k "/Library/Keychains/System.keychain" server-cert.pem
 
 ???
 vscode
