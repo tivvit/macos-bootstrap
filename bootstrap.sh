@@ -32,6 +32,8 @@ magnet
 
 scli
 
+# add client certificates
+# * https://apple.stackexchange.com/questions/8993/how-can-i-add-a-private-key-to-my-keychain
 
 ???
 vscode
