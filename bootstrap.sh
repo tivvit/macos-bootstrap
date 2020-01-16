@@ -6,8 +6,9 @@
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew install coreutils golang python3 git gpg ansible terraform htop mc
 
-copy ssh keys
-dotfiles
+# copy ssh keys
+# dotfiles
+
 jetbrains toolbox
 tunnelblick
 fuse
@@ -19,7 +20,6 @@ activity watcher
 oh my zsh
 resh
 magnet
-python3
 android file transfer
 google backup and sync
 chrome
