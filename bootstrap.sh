@@ -4,7 +4,7 @@
 # x tools (installed by brew)
 # brew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-brew install coreutils golang python3 git gpg ansible terraform htop mc zsh hstr ntfs-3g
+brew install coreutils golang python3 git gpg ansible terraform htop mc zsh hstr ntfs-3g kubectl kubectx
 
 # set default shell (zsh)
 chsh -s /bin/zsh
